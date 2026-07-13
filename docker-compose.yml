@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus-server
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+
+  openobserve:
+    image: public.ecr.aws/zinclabs/openobserve:latest
+    container_name: openobserve-server
+    environment:
+      - ZO_ROOT_USER_EMAIL=admin@hackathon.com
+      - ZO_ROOT_USER_PASSWORD=Hackathon@2026  # Yahan password change kar diya
+    ports:
+      - "5080:5080"

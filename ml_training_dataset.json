@@ -1,0 +1,5772 @@
+[
+    {
+        "timestamp": 1783437470,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 16.2,
+        "latency_ms": 17.6,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437485,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 47.6,
+        "latency_ms": 19.6,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437500,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 80.3,
+        "latency_ms": 23.1,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437515,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 111.7,
+        "latency_ms": 19.5,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437530,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 21.1,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437545,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.6,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437560,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.2,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437575,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.7,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437590,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.9,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437605,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.1,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437620,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.8,
+        "latency_ms": 20.4,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437635,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.8,
+        "latency_ms": 17.0,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437650,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.8,
+        "latency_ms": 22.0,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437665,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.8,
+        "latency_ms": 17.9,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437680,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 15.5,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437695,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 25.0,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437710,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 15.2,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437725,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 15.8,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437740,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 19.7,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437755,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 121.8,
+        "latency_ms": 24.8,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437770,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 123.1,
+        "latency_ms": 16.1,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437785,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 123.1,
+        "latency_ms": 16.1,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437800,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 113.0,
+        "latency_ms": 20.2,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437815,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 23.1,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437830,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.1,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437845,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.3,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437860,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.1,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437875,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.7,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437890,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.5,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437905,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.8,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437920,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.4,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437935,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.5,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437950,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.5,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437965,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.8,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437980,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.6,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783437995,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.9,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438010,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.8,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438025,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438040,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.5,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438055,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.5,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438070,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.8,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438085,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.0,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438100,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.6,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438115,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.5,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438130,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 139.5,
+        "latency_ms": 24.1,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438145,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 142.8,
+        "latency_ms": 22.4,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438160,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 144.0,
+        "latency_ms": 23.1,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438175,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 144.0,
+        "latency_ms": 18.9,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438190,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 130.7,
+        "latency_ms": 15.6,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438205,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 129.4,
+        "latency_ms": 19.1,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438220,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 21.9,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438235,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 21.7,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438250,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.1,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438265,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 22.9,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438280,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.9,
+        "latency_ms": 17.2,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438295,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.9,
+        "latency_ms": 17.3,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438310,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 127.7,
+        "latency_ms": 16.1,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438325,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.4,
+        "latency_ms": 17.9,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438340,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.5,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438355,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 20.5,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438370,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 130.0,
+        "latency_ms": 18.5,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438385,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 130.0,
+        "latency_ms": 19.4,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438400,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 130.0,
+        "latency_ms": 16.7,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438415,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 130.0,
+        "latency_ms": 18.2,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438430,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 11982.5,
+        "latency_ms": 20.8,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438445,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 29057.3,
+        "latency_ms": 24.6,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438460,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 46856.8,
+        "latency_ms": 19.8,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438475,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 49457.0,
+        "latency_ms": 17.5,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438490,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 35911.0,
+        "latency_ms": 18.3,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438505,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 580677.4,
+        "latency_ms": 210.4,
+        "jitter_ms": 30.5,
+        "packet_loss_percent": 9.6,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438520,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 1309634.0,
+        "latency_ms": 184.4,
+        "jitter_ms": 56.0,
+        "packet_loss_percent": 6.5,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438535,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 2087466.9,
+        "latency_ms": 215.2,
+        "jitter_ms": 57.6,
+        "packet_loss_percent": 11.8,
+        "bgp_status": 0
+    },
+    {
+        "timestamp": 1783438550,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 2807961.5,
+        "latency_ms": 180.7,
+        "jitter_ms": 51.0,
+        "packet_loss_percent": 13.5,
+        "bgp_status": 0
+    },
+    {
+        "timestamp": 1783438565,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 2241871.8,
+        "latency_ms": 206.2,
+        "jitter_ms": 43.4,
+        "packet_loss_percent": 6.1,
+        "bgp_status": 0
+    },
+    {
+        "timestamp": 1783438580,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 1377725.2,
+        "latency_ms": 196.7,
+        "jitter_ms": 30.3,
+        "packet_loss_percent": 12.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438595,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 591131.2,
+        "latency_ms": 197.8,
+        "jitter_ms": 56.8,
+        "packet_loss_percent": 7.5,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438610,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.3,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438625,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.8,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438640,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.9,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438655,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.8,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438670,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 21.7,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438685,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.3,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438700,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 127.0,
+        "latency_ms": 23.1,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438715,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 89.8,
+        "latency_ms": 17.8,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438730,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 57.0,
+        "latency_ms": 23.8,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438745,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 25.6,
+        "latency_ms": 24.8,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439090,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 24.0,
+        "latency_ms": 22.1,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439105,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 55.4,
+        "latency_ms": 20.8,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439120,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 86.8,
+        "latency_ms": 16.1,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439135,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 118.2,
+        "latency_ms": 17.5,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439150,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.4,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439165,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.9,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439180,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 25.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439195,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.7,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439210,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.3,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439225,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.6,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439240,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.7,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439255,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.3,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439270,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.7,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439285,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.7,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439300,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.7,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439315,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.3,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439330,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439345,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.3,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439360,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.6,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439375,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.3,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439390,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.9,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439405,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.3,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439420,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.0,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439435,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.9,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439450,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 20.4,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439465,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 20.6,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439480,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.9,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439495,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.2,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439510,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.4,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439525,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 17.2,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439540,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 144.7,
+        "latency_ms": 21.3,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439555,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 144.7,
+        "latency_ms": 23.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439570,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 143.4,
+        "latency_ms": 24.8,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439585,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 143.4,
+        "latency_ms": 23.4,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439600,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.1,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439615,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.9,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439630,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.6,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439645,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 17.2,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439660,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.1,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439675,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439690,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.5,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439705,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.4,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439720,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.9,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439735,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.0,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439750,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.3,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439765,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 149.6,
+        "latency_ms": 23.6,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439780,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 149.6,
+        "latency_ms": 22.6,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439795,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 150.9,
+        "latency_ms": 21.5,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439810,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 130.7,
+        "latency_ms": 22.8,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439825,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 17.9,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439840,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.0,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439855,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 21.4,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439870,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.3,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439885,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.7,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439900,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 23.9,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439915,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 19.6,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439930,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.9,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439945,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.0,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439960,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.8,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439975,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.6,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439990,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.6,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440005,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 17.1,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440020,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 15.6,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440035,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.0,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440050,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.2,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440065,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.0,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440080,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 133.8,
+        "latency_ms": 20.9,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440095,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 133.8,
+        "latency_ms": 20.8,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440110,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 135.7,
+        "latency_ms": 19.4,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440125,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 115.8,
+        "latency_ms": 20.1,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440140,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.9,
+        "latency_ms": 23.4,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440155,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 127.7,
+        "latency_ms": 22.1,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440170,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.7,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440185,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.1,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440200,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 20.2,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440215,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.8,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440230,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 15.5,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440245,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.1,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440260,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.3,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440275,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.6,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440290,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.7,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440305,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.0,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440320,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.4,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440335,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.1,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440350,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 21.4,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440365,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.1,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440380,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.5,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440395,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.9,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440410,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.6,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440425,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.1,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440440,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.6,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440455,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.8,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440470,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.9,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440485,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.3,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440500,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.9,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440515,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.0,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440530,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.4,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440545,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.6,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440560,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.0,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440575,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.1,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440590,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.2,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440605,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.0,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440620,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.8,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440635,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 18.1,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440650,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.7,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440665,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 18.0,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440680,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.2,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440695,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.9,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440710,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.5,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440725,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.7,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440740,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.4,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440755,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.2,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440770,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.2,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440785,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.4,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440800,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.2,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440815,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.1,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440830,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 18.0,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440845,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.8,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440860,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.9,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440875,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.7,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440890,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.0,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440905,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.9,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440920,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.8,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440935,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.7,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440950,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.6,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440965,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.5,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440980,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.6,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440995,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.7,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441010,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.2,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441025,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.5,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441040,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.9,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441055,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.2,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441070,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.6,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441085,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.6,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441100,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.3,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441115,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.4,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441130,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.0,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441145,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.5,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441160,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.1,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441175,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 18.6,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441190,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.6,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441205,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 21.9,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441220,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.0,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441235,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.3,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441250,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.5,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441265,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.6,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441280,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.8,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441295,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.4,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441310,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.3,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441325,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.8,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441340,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.9,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441355,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 15.7,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441370,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.6,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441385,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.3,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441400,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.0,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441415,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.8,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441430,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 98.7,
+        "latency_ms": 19.8,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441445,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 67.3,
+        "latency_ms": 21.3,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441460,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 35.9,
+        "latency_ms": 22.8,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443365,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 42.0,
+        "latency_ms": 18.3,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443380,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 73.4,
+        "latency_ms": 23.4,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443395,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 106.1,
+        "latency_ms": 21.8,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443410,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.1,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443425,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.4,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443440,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 15.9,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443455,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.2,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443470,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.6,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443485,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.6,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443500,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.4,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443515,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.6,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443530,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.1,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443545,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.4,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443560,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.7,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443575,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.1,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443590,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.9,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443605,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.9,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443620,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.2,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443635,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.9,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443650,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.6,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443665,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.3,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443680,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.2,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443695,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.4,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443710,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.0,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443725,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.3,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443740,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.0,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443755,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.4,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443770,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.3,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443785,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.9,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443800,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 25.0,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443815,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.4,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443830,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.1,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443845,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.7,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443860,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.5,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443875,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.8,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443890,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.5,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443905,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.4,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443920,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 21.9,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443935,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 19.9,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443950,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 20.1,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443965,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 22.5,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443980,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.4,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443995,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.1,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444010,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.7,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444025,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.8,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444040,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.6,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444055,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.0,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444070,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.1,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444085,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.3,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444100,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.6,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444115,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.8,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444130,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.3,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444145,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.9,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444160,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.3,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444175,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 21.7,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444190,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 18.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444205,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 22.2,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444220,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 16.1,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444235,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.9,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444250,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.9,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444265,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.9,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444280,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.7,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444295,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 114.9,
+        "latency_ms": 20.7,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444310,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 83.5,
+        "latency_ms": 18.3,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444325,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 52.1,
+        "latency_ms": 17.8,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444340,
+        "device": "eth0",
+        "instance": "172.20.20.3:9100",
+        "bandwidth_bps": 20.7,
+        "latency_ms": 19.5,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438145,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 35.7,
+        "latency_ms": 23.8,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438160,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 69.6,
+        "latency_ms": 22.1,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438175,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 100.7,
+        "latency_ms": 20.0,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438190,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 129.4,
+        "latency_ms": 20.8,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438205,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 129.4,
+        "latency_ms": 19.6,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438220,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 21.1,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438235,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 23.3,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438250,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 17.6,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438265,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 15.3,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438280,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.9,
+        "latency_ms": 23.8,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438295,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.9,
+        "latency_ms": 15.1,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438310,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.9,
+        "latency_ms": 20.6,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438325,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.8,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438340,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.4,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438355,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.7,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438370,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 12421.6,
+        "latency_ms": 15.5,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438385,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 28786.6,
+        "latency_ms": 22.1,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438400,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 45260.8,
+        "latency_ms": 16.8,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438415,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 52832.6,
+        "latency_ms": 18.9,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438430,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 37880.2,
+        "latency_ms": 15.2,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438445,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 20600.0,
+        "latency_ms": 16.2,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438460,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 2997.6,
+        "latency_ms": 15.7,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438475,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.7,
+        "latency_ms": 19.2,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438490,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.9,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438505,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 408336232.1,
+        "latency_ms": 191.9,
+        "jitter_ms": 55.0,
+        "packet_loss_percent": 8.8,
+        "bgp_status": 0
+    },
+    {
+        "timestamp": 1783438520,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 1028801351.0,
+        "latency_ms": 157.5,
+        "jitter_ms": 31.5,
+        "packet_loss_percent": 5.2,
+        "bgp_status": 0
+    },
+    {
+        "timestamp": 1783438535,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 1745379495.9,
+        "latency_ms": 234.5,
+        "jitter_ms": 48.2,
+        "packet_loss_percent": 7.1,
+        "bgp_status": 0
+    },
+    {
+        "timestamp": 1783438550,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 2395312041.9,
+        "latency_ms": 224.7,
+        "jitter_ms": 38.0,
+        "packet_loss_percent": 7.4,
+        "bgp_status": 0
+    },
+    {
+        "timestamp": 1783438565,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 2045755905.8,
+        "latency_ms": 201.5,
+        "jitter_ms": 59.6,
+        "packet_loss_percent": 5.4,
+        "bgp_status": 0
+    },
+    {
+        "timestamp": 1783438580,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 1351774138.2,
+        "latency_ms": 170.2,
+        "jitter_ms": 36.6,
+        "packet_loss_percent": 6.7,
+        "bgp_status": 0
+    },
+    {
+        "timestamp": 1783438595,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 645420597.0,
+        "latency_ms": 237.1,
+        "jitter_ms": 52.7,
+        "packet_loss_percent": 7.7,
+        "bgp_status": 0
+    },
+    {
+        "timestamp": 1783438610,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.3,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438625,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.4,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438640,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.7,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438655,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.4,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438670,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.2,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438685,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.5,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438700,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.3,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438715,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 92.9,
+        "latency_ms": 19.5,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438730,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 60.3,
+        "latency_ms": 18.7,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783438745,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 28.9,
+        "latency_ms": 19.6,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439090,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 20.8,
+        "latency_ms": 15.7,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439105,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 52.2,
+        "latency_ms": 21.7,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439120,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 83.6,
+        "latency_ms": 21.7,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439135,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 115.0,
+        "latency_ms": 21.2,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439150,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.7,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439165,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.2,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439180,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.5,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439195,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.9,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439210,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.8,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439225,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.4,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439240,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439255,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.2,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439270,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.2,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439285,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.1,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439300,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.9,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439315,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.1,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439330,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.2,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439345,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.7,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439360,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.0,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439375,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.3,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439390,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.0,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439405,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.8,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439420,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.5,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439435,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 25.0,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439450,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.7,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439465,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.3,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439480,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.6,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439495,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.2,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439510,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.2,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439525,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.1,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439540,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 144.7,
+        "latency_ms": 23.8,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439555,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 144.7,
+        "latency_ms": 20.7,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439570,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 143.4,
+        "latency_ms": 19.1,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439585,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 143.4,
+        "latency_ms": 24.3,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439600,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 17.7,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439615,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.5,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439630,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 17.1,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439645,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.8,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439660,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.8,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439675,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.2,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439690,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.8,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439705,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.8,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439720,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.0,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439735,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.5,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439750,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 129.9,
+        "latency_ms": 18.3,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439765,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 149.6,
+        "latency_ms": 21.1,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439780,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 150.9,
+        "latency_ms": 21.8,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439795,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 150.9,
+        "latency_ms": 22.2,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439810,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 132.0,
+        "latency_ms": 23.3,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439825,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 22.4,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439840,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.2,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439855,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.4,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439870,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.0,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439885,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.9,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439900,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 19.4,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439915,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 17.2,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439930,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.9,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439945,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.1,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439960,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.4,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439975,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.5,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783439990,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.9,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440005,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 18.1,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440020,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 20.1,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440035,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.0,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440050,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 18.1,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440065,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.7,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440080,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 145.0,
+        "latency_ms": 21.7,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440095,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 146.3,
+        "latency_ms": 23.7,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440110,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 148.3,
+        "latency_ms": 21.7,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440125,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 124.1,
+        "latency_ms": 16.5,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440140,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.9,
+        "latency_ms": 15.5,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440155,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 127.7,
+        "latency_ms": 16.1,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440170,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 21.3,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440185,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440200,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.8,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440215,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.9,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440230,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 21.9,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440245,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.5,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440260,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.8,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440275,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.3,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440290,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.2,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440305,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 15.6,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440320,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.6,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440335,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.2,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440350,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 20.1,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440365,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.3,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440380,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.4,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440395,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.7,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440410,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.4,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440425,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.1,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440440,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.3,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440455,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.6,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440470,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.2,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440485,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.0,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440500,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.7,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440515,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.2,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440530,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.7,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440545,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.7,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440560,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.3,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440575,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.6,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440590,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.9,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440605,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.6,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440620,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.0,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440635,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 21.8,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440650,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.1,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440665,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.5,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440680,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 21.7,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440695,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.5,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440710,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.4,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440725,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.7,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440740,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.8,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440755,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.8,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440770,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.4,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440785,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.1,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440800,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.1,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440815,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.3,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440830,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.5,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440845,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 18.8,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440860,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.2,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440875,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 15.8,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440890,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.6,
+        "jitter_ms": 2.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440905,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.6,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440920,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.7,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440935,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440950,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.6,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440965,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.5,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440980,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.9,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783440995,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.4,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441010,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.8,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441025,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.6,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441040,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.4,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441055,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.5,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441070,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.4,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441085,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.6,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441100,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.2,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441115,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.3,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441130,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.4,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441145,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.1,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441160,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.0,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441175,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 18.0,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441190,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 16.1,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441205,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 24.0,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441220,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.2,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441235,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.1,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441250,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.4,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441265,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.1,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441280,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.2,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441295,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.2,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441310,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.9,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441325,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.3,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441340,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.7,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441355,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.0,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441370,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.4,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441385,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 23.1,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441400,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.9,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441415,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.1,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441430,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 101.9,
+        "latency_ms": 15.2,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441445,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 70.5,
+        "latency_ms": 15.6,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783441460,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 39.1,
+        "latency_ms": 23.7,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443365,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 38.7,
+        "latency_ms": 22.8,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443380,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 70.1,
+        "latency_ms": 15.8,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443395,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 102.7,
+        "latency_ms": 23.0,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443410,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 18.9,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443425,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 19.0,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443440,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 126.9,
+        "latency_ms": 22.4,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443455,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.6,
+        "jitter_ms": 1.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443470,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.7,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443485,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.1,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443500,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.2,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443515,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.7,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443530,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.6,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443545,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.9,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443560,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.8,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443575,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.3,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443590,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.4,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443605,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.3,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443620,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.6,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443635,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.3,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443650,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.9,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443665,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.5,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443680,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.3,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443695,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.1,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443710,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.3,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443725,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 20.2,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443740,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.6,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443755,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.5,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443770,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.3,
+        "jitter_ms": 1.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443785,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.6,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443800,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443815,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 15.4,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443830,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.0,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443845,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.7,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443860,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 18.6,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443875,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.2,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443890,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.6,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443905,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.1,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443920,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 24.7,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443935,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 18.4,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443950,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 21.4,
+        "jitter_ms": 2.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443965,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 23.1,
+        "jitter_ms": 1.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443980,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.5,
+        "jitter_ms": 1.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783443995,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.9,
+        "jitter_ms": 1.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444010,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.7,
+        "jitter_ms": 2.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444025,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.5,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444040,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.2,
+        "jitter_ms": 1.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444055,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.4,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444070,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.4,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444085,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 19.0,
+        "jitter_ms": 2.8,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444100,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 21.4,
+        "jitter_ms": 2.5,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444115,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.6,
+        "jitter_ms": 1.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444130,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 16.0,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444145,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 17.1,
+        "jitter_ms": 3.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444160,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.3,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444175,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 15.7,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444190,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 19.7,
+        "jitter_ms": 1.4,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444205,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 24.1,
+        "jitter_ms": 2.0,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444220,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 128.2,
+        "latency_ms": 17.8,
+        "jitter_ms": 2.1,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444235,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.9,
+        "jitter_ms": 2.7,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444250,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 22.0,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444265,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 24.8,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444280,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 125.6,
+        "latency_ms": 23.7,
+        "jitter_ms": 1.3,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444295,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 118.1,
+        "latency_ms": 16.2,
+        "jitter_ms": 2.9,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444310,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 86.7,
+        "latency_ms": 24.1,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444325,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 55.3,
+        "latency_ms": 16.8,
+        "jitter_ms": 2.6,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    },
+    {
+        "timestamp": 1783444340,
+        "device": "eth0",
+        "instance": "172.20.20.6:9100",
+        "bandwidth_bps": 23.9,
+        "latency_ms": 23.1,
+        "jitter_ms": 1.2,
+        "packet_loss_percent": 0.0,
+        "bgp_status": 1
+    }
+]

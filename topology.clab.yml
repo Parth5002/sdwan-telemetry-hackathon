@@ -1,0 +1,20 @@
+name: mpls-sdwan-sim
+
+mgmt:
+  network: bridge
+
+topology:
+  nodes:
+    hub:
+      kind: linux
+      image: prom/node-exporter:latest
+      ports:
+        - "9101:9100"
+    branch-a:
+      kind: linux
+      image: prom/node-exporter:latest
+      ports:
+        - "9102:9100"
+
+  links:
+    - endpoints: ["hub:eth1", "branch-a:eth1"]

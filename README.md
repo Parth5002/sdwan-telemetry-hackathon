@@ -1,34 +1,115 @@
-# Telemetry Pipeline and Chaos Engineering for SD-WAN Simulation
+🚀 Telemetry Stack Architecture & Deployment Guide
+Overview
+This project sets up a robust, real-time observability and telemetry pipeline for an SD-WAN simulated network. It utilizes Containerlab to provision network nodes (Hub and Branch), Prometheus for metric scraping, and OpenObserve for centralized log and metric visualization.
 
-**Developer:** Parth Gohil (Enrollment: 240413116004)  
-**Team Members:** Nisarg, Devang Bavaskar  
+Technology Stack
+Infrastructure as Code (IaC): Containerlab
 
----
+Containerization: Docker & Docker Compose
 
-## 1. Project Overview
-The objective of this module was to design, deploy, and monitor a virtualized SD-WAN network topology (Hub and Branch architecture) to facilitate the training of an AI/ML-based threat detection model. The project involved setting up a robust telemetry stack to monitor network health in real-time, deliberately injecting network anomalies (Chaos Engineering), and extracting the resulting datasets for machine learning applications.
+Metrics Collector: Prometheus
 
-## 2. Architecture and Technology Stack
-* **Infrastructure Simulation:** Docker & Containerlab (Simulating Hub and Branch-A routers).
-* **Data Collection (Agent):** Prometheus Node Exporter (Extracting hardware and network metrics).
-* **Telemetry & Time-Series Database:** Prometheus (Scraping and storing real-time metrics).
-* **Data Visualization:** OpenObserve (Providing an enterprise-grade UI for real-time traffic monitoring).
-* **Chaos Engineering:** `iperf3` (Generating high-bandwidth simulated network attacks).
+Agent/Exporter: Prometheus Node Exporter
 
-## 3. Implementation Methodology
-### Phase 1: Telemetry Integration
-Node Exporter binaries were successfully deployed into the virtualized routers. Prometheus was configured to scrape these endpoints at regular intervals to monitor standard operational metrics.
+Observability Backend: OpenObserve
 
-### Phase 2: Resolving Infrastructure Bottlenecks
-* Addressed dynamic IP allocation issues ("IP Roulette") within the Docker network by inspecting live container IPs and dynamically updating the Prometheus YAML configurations. 
-* Fixed DNS resolution errors inside Alpine containers by overriding the `resolv.conf` to utilize Google's public DNS (`8.8.8.8`).
+📂 Configuration Files
+1. Network Topology (topology.clab.yml)
+Simulates the network nodes and binds their internal metric ports (9100) to the host machine for scraping. We utilize the node-exporter image directly to bypass WSL kernel limitations regarding advanced routing modules.
 
-### Phase 3: Chaos Engineering & Anomaly Generation
-To provide actionable data for the ML model, a controlled network flood was executed. Using `iperf3`, approximately 136 GB of traffic was transmitted from Branch-A to the Hub over a 60-second window, peaking at 19.4 Gbits/sec.
+YAML
+name: mpls-sdwan-sim
 
-### Phase 4: Dashboarding & Extraction
-The generated anomaly (bandwidth spike) was successfully visualized in OpenObserve via the `remote_write` configuration in Prometheus. A custom Python script was then executed to query the Prometheus API (`/api/v1/query_range`) using PromQL, extracting the exact anomaly dataset into an `anomaly_data.json` file for the AI/ML pipeline.
+mgmt:
+  network: bridge
 
-## 4. Conclusion
-The backend telemetry and observability pipeline is fully functional and battle-tested. It accurately captures baseline network behavior and successfully records synthetic anomalies, providing a reliable data foundation for downstream machine learning tasks.
+topology:
+  nodes:
+    hub:
+      kind: linux
+      image: prom/node-exporter:latest
+      ports:
+        - "9101:9100"
+    branch-a:
+      kind: linux
+      image: prom/node-exporter:latest
+      ports:
+        - "9102:9100"
 
+  links:
+    - endpoints: ["hub:eth1", "branch-a:eth1"]
+2. Telemetry Backend (docker-compose.yml)
+Provisions the Prometheus server and the OpenObserve dashboard.
+
+YAML
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus-server
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+
+  openobserve:
+    image: public.ecr.aws/zinclabs/openobserve:latest
+    container_name: openobserve-server
+    environment:
+      - ZO_ROOT_USER_EMAIL=admin@hackathon.com
+      - ZO_ROOT_USER_PASSWORD=Hackathon@2026
+    ports:
+      - "5080:5080"
+3. Scraping Configuration (prometheus.yml)
+Instructs Prometheus to scrape the Containerlab nodes and remote-write the data to OpenObserve.
+
+YAML
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: 'routers'
+    static_configs:
+      - targets: ['host.docker.internal:9101', 'host.docker.internal:9102']
+
+remote_write:
+  - url: "http://openobserve:5080/api/default/prometheus/api/v1/write"
+    basic_auth:
+      username: "admin@hackathon.com"
+      password: "Hackathon@2026"
+🛠️ Deployment Instructions
+Execute the following commands in the terminal in sequential order to bring up the entire stack:
+
+Step 1: Clean up previous instances (Optional but recommended)
+
+Bash
+docker network prune -f
+sudo containerlab destroy -t topology.clab.yml --cleanup
+docker-compose down
+Step 2: Start the Telemetry Backend
+
+Bash
+docker-compose up -d
+Step 3: Deploy the Network Topology
+
+Bash
+sudo containerlab deploy -t topology.clab.yml
+Step 4: Verify Deployment
+
+Prometheus Targets: http://localhost:9090/targets (Should show 2/2 UP)
+
+OpenObserve Dashboard: http://localhost:5080 (Check Metrics tab for incoming streams)
+
+📡 API Integration Guide (For Frontend/App Developers)
+To consume the live telemetry data in a frontend application (e.g., React, Next.js), poll the Prometheus HTTP API.
+
+Replace <HOST_IP> with the actual local IPv4 address of the machine running the Docker containers (e.g., 10.101.41.32).
+
+Endpoint: GET http://<HOST_IP>:9090/api/v1/query?query=<metric_name>
+
+Useful Metrics for the Dashboard:
+
+CPU Usage: node_cpu_seconds_total
+
+Available Memory: node_memory_MemAvailable_bytes
+
+Network Traffic Received: node_network_receive_bytes_total

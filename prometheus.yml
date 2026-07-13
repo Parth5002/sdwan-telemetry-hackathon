@@ -1,0 +1,14 @@
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: 'routers'
+    static_configs:
+      # This explicitly targets the mapped ports on the Windows machine
+      - targets: ['host.docker.internal:9101', 'host.docker.internal:9102']
+
+remote_write:
+  - url: "http://openobserve:5080/api/default/prometheus/api/v1/write"
+    basic_auth:
+      username: "admin@hackathon.com"
+      password: "Hackathon@2026" 
