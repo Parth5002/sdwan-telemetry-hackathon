@@ -4,7 +4,7 @@
 | :--- | :--- | :--- | :--- |
 | **Phase 1** | Network Simulation (SD-WAN/MPLS) | Parth Gohil | Completed |
 | **Phase 2** | Telemetry Pipeline & Scrape Config | Parth Gohil | Completed |
-| **Phase 3** | Predictive Modeling (Anomaly Detection) | Nisarg Bavaskar | In-Progress |
+| **Phase 3** | Predictive Modeling (Anomaly Detection) | Nisarg Patel | In-Progress |
 | **Phase 4** | Offline LLM & RAG Deployment | Devang Bavaskar | Completed |
 | **Phase 5** | Copilot Logic & Automation | Devang/Preet | In-Progress |
 | **Phase 6** | Scenario Validation (Chaos Testing) | Parth/Team | Pending |
